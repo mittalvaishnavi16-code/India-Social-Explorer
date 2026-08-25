@@ -1,5 +1,5 @@
 # 🇮🇳 India Social Explorer
-Screenshot 2026-08-25 171012.png
+
 An interactive data dashboard exploring population and literacy patterns across Indian states using Census 2011 data.
 
 ## 🌸 Live Demo
